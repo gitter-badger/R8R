@@ -1,0 +1,10 @@
+# Site settings
+title: R8R.bz
+email: MarkBruns@MarkBruns.com
+description: R8R is a graph database
+baseurl: /R8R
+twitter_username: R8R_bz
+github_username:  MarkBruns/R8R
+
+# Build settings
+markdown: kramdown
