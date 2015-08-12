@@ -5,21 +5,22 @@
     <description>R8R is a graph database</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Aug 2015 18:26:05 -0500</pubDate>
-    <lastBuildDate>Mon, 10 Aug 2015 18:26:05 -0500</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2015 11:04:44 -0500</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2015 11:04:44 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>R8R Architecture and Technology!</title>
-        <description>&lt;p&gt;[GYGbot][GYGbot.com] and the [GYGbot network][GYGbot.net] are about enabling a truly dynamic work environment.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://R8R.bz&quot;&gt;R8R&lt;/a&gt; and the &lt;a href=&quot;http://Salebarn.com&quot;&gt;Salebarn.com, developer of R8R&lt;/a&gt; are about enabling a truly dynamic, reputation-driven exchanges [of ideas, things, services] and a ecosystem of free, fair, open, coherent markets and taking the scientific methods of &lt;a href=&quot;http://www.charleskochinstitute.org/about-institute/market-based-management/guiding-principles-five-dimensions/&quot;&gt;market-based management&lt;/a&gt; to the next level.&lt;/p&gt;
 
-&lt;p&gt;The [GYGbot GitHub repository][GYGbot on GitHub] includes various workflow scripts, data APIs and other resources that aim to make it more possible for a professional to efficiently network with compatible team members to deliver value to clients.&lt;/p&gt;
-
+&lt;p&gt;The &lt;a href=&quot;https://github.com/MarkBruns/R8R&quot;&gt;R8R repository&lt;/a&gt; offers a language-agnostic and DBMS-agnostic approach to building R&amp;amp;D database management systems. The objective of &lt;a href=&quot;https://github.com/MarkBruns/R8R&quot;&gt;R8R repository&lt;/a&gt; is for DevOps collaboration, NOT to provide a production system … free and open source technology is free to experiment with and freely extensible, significant assistance with implementation is a professional service that provides income for the developer – implementation is not cost-free.&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Aug 2015 07:00:00 -0500</pubDate>
-        <link>/architecture/technology/2015/08/12/R8R-Technological-Architecture.html</link>
-        <guid isPermaLink="true">/architecture/technology/2015/08/12/R8R-Technological-Architecture.html</guid>
+        <link>/devops/architecture/technology/2015/08/12/R8R-Technological-Architecture.html</link>
+        <guid isPermaLink="true">/devops/architecture/technology/2015/08/12/R8R-Technological-Architecture.html</guid>
         
+        
+        <category>devops</category>
         
         <category>architecture</category>
         
@@ -29,10 +30,9 @@
     
       <item>
         <title>R8R Agile Methodology!</title>
-        <description>&lt;p&gt;[GYGbot][GYGbot.com] and the [GYGbot network][GYGbot.net] are about enabling a truly dynamic work environment.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://R8R.bz&quot;&gt;R8R&lt;/a&gt; and the &lt;a href=&quot;http://Salebarn.com&quot;&gt;Salebarn.com, developer of R8R&lt;/a&gt; are about enabling a truly dynamic, reputation-driven exchanges [of ideas, things, services] and a ecosystem of free, fair, open, coherent markets and taking the scientific methods of &lt;a href=&quot;http://www.charleskochinstitute.org/about-institute/market-based-management/guiding-principles-five-dimensions/&quot;&gt;market-based management&lt;/a&gt; to the next level.&lt;/p&gt;
 
-&lt;p&gt;The [GYGbot GitHub repository][GYGbot on GitHub] includes various workflow scripts, data APIs and other resources that aim to make it more possible for a professional to efficiently network with compatible team members to deliver value to clients.&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&quot;http://R8R.bz&quot;&gt;R8R&lt;/a&gt; is a tight, antifragile LEAN technology, for professionals who appreciate the necessity of using a LEAN methodology. The objective of [R8R repository][https://github.com/MarkBruns/R8R] is NOT to be offer a full-feature technological solution for the masses.  In general, features induce multiplicatively more failure modes than the number of features added, they complicate the user interface and remove the user from their interest and features are always eventually exploited by security threats.&lt;/p&gt;
 </description>
         <pubDate>Tue, 11 Aug 2015 07:00:00 -0500</pubDate>
         <link>/agile/methodology/2015/08/11/R8R-Agile-Methodology.html</link>
@@ -47,21 +47,20 @@
     
       <item>
         <title>Welcome to R8R!</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://R8R.bz&quot;&gt;R8R&lt;/a&gt; and the &lt;a href=&quot;http://Salebarn.com&quot;&gt;Salebarn.com developer of R8R&lt;/a&gt; are about enabling a truly dynamic, reputation-driven market ecosystem.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.safaribooksonline.com/a/graph-databases-2nd/337963/&quot;&gt;“What if we take the relationships and connections in our data and reimagined our business along those relationships? What would that look like?”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href=&quot;https://github.com/MarkBruns/R8R&quot;&gt;R8R GitHub repository&lt;/a&gt; includes a very simple, very minimal database management system along with various workflow scripts, data APIs and other resources that aim to make it more possible for professionals and small companies to efficiently network with compatible team members to deliver value to clients.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://R8R.bz&quot;&gt;R8R&lt;/a&gt; takes this “What If” question a step further by asking “How we construct an evolving knowledge database if the connections or relational ties between entities in our data were neither especially equal or static in the world of &lt;strong&gt;market-driven data management&lt;/strong&gt;? How can we allow users to have greater control over their search indices?”&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;http://R8R.bz&quot;&gt;R8R&lt;/a&gt; and the &lt;a href=&quot;http://Salebarn.com&quot;&gt;Salebarn.com, developer of R8R&lt;/a&gt; are about enabling a truly dynamic, reputation-driven exchanges [of ideas, things, services] and a ecosystem of free, fair, open, coherent markets and taking the scientific methods of &lt;a href=&quot;http://www.charleskochinstitute.org/about-institute/market-based-management/guiding-principles-five-dimensions/&quot;&gt;market-based management&lt;/a&gt; to the next level.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://github.com/MarkBruns/R8R&quot;&gt;R8R GitHub repository&lt;/a&gt; is a reflection of our commitment to a very sparse, LEAN DevOps methodology. It includes a very simple, very minimal database management system along with various workflow scripts, data APIs and other resources that aim to make it more possible for professionals and small companies to efficiently network with compatible team members to deliver value to clients.&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Aug 2015 07:00:00 -0500</pubDate>
-        <link>/philosophy/architecture/methodology/2015/08/10/welcome-to-R8R.html</link>
-        <guid isPermaLink="true">/philosophy/architecture/methodology/2015/08/10/welcome-to-R8R.html</guid>
+        <link>/philosophy/2015/08/10/welcome-to-R8R.html</link>
+        <guid isPermaLink="true">/philosophy/2015/08/10/welcome-to-R8R.html</guid>
         
         
         <category>philosophy</category>
-        
-        <category>architecture</category>
-        
-        <category>methodology</category>
         
       </item>
     
