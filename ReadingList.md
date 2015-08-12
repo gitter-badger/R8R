@@ -9,31 +9,32 @@ permalink: /ReadingList/
 
 # Eight Rs
 
-## Reputation management
+## -- Reputation management
 
-## Reliability, redundancy, resiliency
+## -- Reliability, redundancy, resiliency
 
-## RDBMS, NoSQL, Graph Databases
+## -- RDBMS, NoSQL, Graph Databases
 
-## R and other languages
+## -- R and other languages
 
-## RDF and metadata
+## -- RDF and metadata
 
-### [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
+### -- -- [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 
-### [OWL](https://en.wikipedia.org/wiki/Web_Ontology_Language)
+### -- -- [OWL](https://en.wikipedia.org/wiki/Web_Ontology_Language)
 
-### [knowledge representation](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning) 
+### -- -- [Knowledge representation](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning)
 
-### [Semantics](https://en.wikipedia.org/wiki/Semantics_%28computer_science%29)
+### -- -- [Semantics](https://en.wikipedia.org/wiki/Semantics_%28computer_science%29)
 
-### [Really Simple Syndication](https://en.wikipedia.org/wiki/RSS)
+### -- -- [Really Simple Syndication](https://en.wikipedia.org/wiki/RSS)
 
-## RESTful web services
+## -- RESTful web services
 
-## Reusable code
+## -- Reusabability of code and other things
 
+### -- -- Design for refactoring
 
-# Storing Objects in a Database
+## Responsiveness or rapid retrieval
 
-In order to design databases, it is necessary think about applying more appropriate or efficient algorithms that exploit the particular attributes of data for managing or indexing data stores.  Toward that end, it is important to develop a better working understanding of things like [hash functions](https://en.wikipedia.org/wiki/Hash_function), [checksums](https://en.wikipedia.org/wiki/Checksum), [check digits](https://en.wikipedia.org/wiki/Check_digit), [digital fingerprinting algorithms](https://en.wikipedia.org/wiki/Fingerprint_%28computing%29), [randomization functions](https://en.wikipedia.org/wiki/Randomization_function), [forward error-correction](https://en.wikipedia.org/wiki/Forward_error_correction), [network coding](https://en.wikipedia.org/wiki/Linear_network_coding), [cryptographic ciphers](https://en.wikipedia.org/wiki/Cipher) and a variety of topics in [coding theory](https://en.wikipedia.org/wiki/Coding_theory).
+In order to design databases for lower latency, resonsiveness or rapid retrieval [when data is needed], it is necessary think about applying more appropriate or efficient algorithms that exploit the particular attributes of data for managing or indexing data stores.  Toward that end, it is important to develop a better working understanding of things like [hash functions](https://en.wikipedia.org/wiki/Hash_function), [checksums](https://en.wikipedia.org/wiki/Checksum), [check digits](https://en.wikipedia.org/wiki/Check_digit), [digital fingerprinting algorithms](https://en.wikipedia.org/wiki/Fingerprint_%28computing%29), [randomization functions](https://en.wikipedia.org/wiki/Randomization_function), [forward error-correction](https://en.wikipedia.org/wiki/Forward_error_correction), [network coding](https://en.wikipedia.org/wiki/Linear_network_coding), [cryptographic ciphers](https://en.wikipedia.org/wiki/Cipher) and a variety of topics in [coding theory](https://en.wikipedia.org/wiki/Coding_theory).
