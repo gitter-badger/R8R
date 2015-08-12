@@ -9,15 +9,23 @@ permalink: /ReadingList/
 
 # Eight Rs
 
-## -- Reputation management
+## -- Reputation management is the essential domain or niche of the R8R project
+
+### -- -- [Domain Driven Design](https://www.safaribooksonline.com/library/view/domain-driven-design-tackling/0321125215/)
 
 ## -- Reliability, redundancy, resiliency
 
-## -- RDBMS, NoSQL, Graph Databases
+### -- -- CockroachDB and Spanner
 
-## -- R and other languages
+## -- RDBMS, NoSQL, Graph Databases and existing database technologies
 
-## -- RDF and metadata
+## -- Research
+
+### -- -- [Visualizing, transforming, modeling data](https://www.safaribooksonline.com/t/?q=*&subject=%22Data%20Visualization%22)
+
+### -- -- [R](https://www.safaribooksonline.com/search/?q=%22R%20language%22&sort=score)
+
+## -- Resource Description Framework and metadata frameworks
 
 ### -- -- [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 
@@ -29,12 +37,18 @@ permalink: /ReadingList/
 
 ### -- -- [Really Simple Syndication](https://en.wikipedia.org/wiki/RSS)
 
-## -- RESTful web services
+## -- Representational state transfer and scalability
 
-## -- Reusabability of code and other things
+### -- -- What is [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) and how does it aid [scalability](https://en.wikipedia.org/wiki/Scalability)
+
+### -- -- [RESTFUL data APIs](https://www.safaribooksonline.com/search/?q=%22RESTful%20API%22&sort=issued)
+
+## -- Reusabability and Architecture
+
+### -- -- Patterns
 
 ### -- -- Design for refactoring
 
-## Responsiveness or rapid retrieval
+## -- Responsiveness or rapid retrieval
 
 In order to design databases for lower latency, resonsiveness or rapid retrieval [when data is needed], it is necessary think about applying more appropriate or efficient algorithms that exploit the particular attributes of data for managing or indexing data stores.  Toward that end, it is important to develop a better working understanding of things like [hash functions](https://en.wikipedia.org/wiki/Hash_function), [checksums](https://en.wikipedia.org/wiki/Checksum), [check digits](https://en.wikipedia.org/wiki/Check_digit), [digital fingerprinting algorithms](https://en.wikipedia.org/wiki/Fingerprint_%28computing%29), [randomization functions](https://en.wikipedia.org/wiki/Randomization_function), [forward error-correction](https://en.wikipedia.org/wiki/Forward_error_correction), [network coding](https://en.wikipedia.org/wiki/Linear_network_coding), [cryptographic ciphers](https://en.wikipedia.org/wiki/Cipher) and a variety of topics in [coding theory](https://en.wikipedia.org/wiki/Coding_theory).
