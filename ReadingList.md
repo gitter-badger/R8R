@@ -25,7 +25,7 @@ If you want to do any meaningful development in an important emergent realm, suc
 
 ### -- -- [Visualizing, transforming, modeling data](https://www.safaribooksonline.com/t/?q=*&subject=%22Data%20Visualization%22)
 
-### -- -- [R](https://www.safaribooksonline.com/search/?q=%22R%20language%22&sort=score)
+### -- -- [R language](https://www.safaribooksonline.com/search/?q=%22R%20language%22&sort=score), [R language repositories on Github](https://github.com/search?l=R&o=desc&q=R&s=stars&type=Repositories&utf8=%E2%9C%93), [the R Project](https://www.r-project.org/) and [R Studio](https://www.rstudio.com/resources/training/online-learning/)
 
 ## -- Resource Description Framework and metadata frameworks
 
