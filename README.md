@@ -1,2 +1,2 @@
 # R8R
-Graph database for indexing relationship and/or reputation 
+Graph database management system, primarily for prospecting and lead generation, curating relationship data and/or reputation scoring.
